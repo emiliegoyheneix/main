@@ -12,4 +12,4 @@ Steps:
 7. Choose name if you want it(uncheched the default checkbox for it).
 8. Click on "Create" button.
 
-If you need a tutorial you can see this video : 
+If you need a tutorial you can see this video : https://vimeo.com/1081123766
