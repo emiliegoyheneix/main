@@ -8,4 +8,4 @@ This script setup your IK(Soft, Squesh, Stetch, Length).
 Steps:
 1. Select the handle in maya(or chain in 3dsmax).
 2. Select a name (or check the default checkbox).
-3. Clique on "Setup" button.
+3. Click on "Setup" button.
